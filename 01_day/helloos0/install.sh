@@ -1,0 +1,1 @@
+sudo dd if=helloos.img of=/dev/sdb count=1

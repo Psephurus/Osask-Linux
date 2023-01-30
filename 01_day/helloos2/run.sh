@@ -1,0 +1,1 @@
+qemu-system-i386 -L . -m 32m -rtc base=localtime -vga std -hda helloos.img

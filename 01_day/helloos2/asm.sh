@@ -1,0 +1,1 @@
+nasm helloos.asm -o helloos.img
